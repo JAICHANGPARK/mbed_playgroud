@@ -1,0 +1,10 @@
+.build
+.mbed
+projectfiles
+*.py*
+mbed-os
+BUILD
+SPI_TFT_ILI9341
+SDFileSystem
+mbed-os.git
+TFT_fonts
